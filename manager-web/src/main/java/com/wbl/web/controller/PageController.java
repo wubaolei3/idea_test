@@ -10,7 +10,7 @@ public class PageController {
 
     @RequestMapping("/{page}")
     public String showPage(@PathVariable String page){
-        System.out.println("s");
+        System.out.println("sssss");
         return page;
     }
 }
