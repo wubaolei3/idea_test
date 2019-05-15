@@ -7,7 +7,7 @@
     <groupId>com.wbl</groupId>
     <artifactId>manager</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
     <modules>
         <module>manager-pojo</module>
         <module>manager-dao</module>
